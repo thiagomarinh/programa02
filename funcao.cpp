@@ -27,7 +27,7 @@ void usandoRange(){
 void incrementaNumero(int &numero) { 
 
     for(int i=1 ; i<=10; i++){
-        numero = numero +i;
+        numero =  numero + i;
         cout << numero << "\n";
     }
 }
